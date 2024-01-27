@@ -23,7 +23,7 @@
 	<section class="cover">
 		<div>
 			<div id="about">
-				<div class="col-sm-12 text-center">
+				<div class="text-center">
 					<h2>
 						<span class="heading-highlight">PETITION for saving</span>
 						Tiny Tots and Kinder Prep Schools
@@ -153,6 +153,10 @@
 		padding: 6rem 0;
 	}
 
+	#about {
+		padding: 0 48px;
+	}
+
 	.cover {
 		background: black;
 	}
@@ -160,7 +164,7 @@
 	.cover h2 {
 		text-align: center;
 		font-size: 48px;
-		padding: 20px 48px 0;
+		padding: 20px 0 0;
 		line-height: 48px;
 		color: #fff;
 	}
@@ -186,6 +190,8 @@
 
 	.letter {
 		background: #f9fafb;
+		padding-left: 15px;
+		padding-right: 15px;
 	}
 
 	.letter-heading {
