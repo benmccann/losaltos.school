@@ -75,10 +75,10 @@
 					The program consists of experienced teachers with a passion for early childhood
 					development in an environment that allows the children to learn and thrive. The staff has
 					gone above and beyond to provide a quality experience, even through the trying times of
-					the COVID pandemic. It is disturbing that the city is contemplating a loss of these
-					teaching jobs during a nationwide teacher shortage. The proposed implementation timeline
-					means there is a high risk that no program will be offered next year as it will be
-					extremely challenging to contract with a private company, hire new teachers, and enroll
+					the COVID pandemic. It is disturbing that the city is contemplating laying off highly
+					qualified teachers during a nationwide teacher shortage. The proposed implementation
+					timeline means there is a high risk that no program will be offered next year as it will
+					be extremely challenging to contract with a private company, hire new teachers, and enroll
 					students in time for next school year.
 				</span>
 			</p>
