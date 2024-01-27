@@ -1,13 +1,6 @@
 <svelte:head>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<title>Save Los Altos Tiny Tots and Kinder Prep School Programs</title>
 	<meta name="description" content="Save Los Altos Tiny Tots and Kinder Prep School Programs" />
-
-	<link
-		href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%7CRoboto+Slab:300%7CPT+Serif:700%7CLora"
-		rel="stylesheet"
-		type="text/css"
-	/>
 
 	<meta
 		property="og:site_name"
@@ -40,8 +33,6 @@
 						<span class="border-light-dotted">Parents and staff deserve a chance</span> to save these
 						schools.
 					</p>
-
-					<a href="#" class="btn btn-download-petition">Sign Petition</a>
 				</div>
 			</div>
 		</div>
@@ -181,6 +172,18 @@
 		line-height: 36px;
 		position: relative;
 		margin-bottom: 48px;
+	}
+	.letter-heading h1:after {
+		position: absolute;
+		content: '';
+		display: inline-block;
+		background: #797979;
+		width: 160px;
+		height: 3px;
+		top: 66px;
+		left: 50%;
+		margin-bottom: 24px;
+		margin-left: -78px;
 	}
 	.letter-heading h2 {
 		font-size: 20px;
