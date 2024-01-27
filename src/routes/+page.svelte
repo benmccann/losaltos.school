@@ -52,57 +52,82 @@
 		<div class="letter-content">
 			<p>
 				<span>
-					We were surprised to learn that the City of Los Altos is planning to end the Tiny Tots and
-					Kinder Prep Preschool programs and open up an RFP for corporations to bid on using the
-					preschool facilities.
+					WE, the undersigned, were surprised to learn that the City of Los Altos is planning to end
+					the Tiny Tots and Kinder Prep Preschool programs and open up an RFP for corporations to
+					bid on using the preschool facilities. It is alarming that the city is planning to
+					eliminate this long-standing program without providing parents or the community notice,
+					transparency into the decision making process, and a chance to make changes at the
+					schools.
 				</span>
 			</p>
-
+			<br />
 			<p>
 				<span>
-					The Tiny Tots program has been in existence for 50+ years, with many former students now
-					sending their own children to participate. The program also sets the children up to become
+					THAT, the Tiny Tots program has been in existence for 50+ years, many former students are
+					now sending their own children to participate. The program sets children up to become
 					engaged citizens through the unique opportunities they have to interact with other
 					community organizations through regular field trips and activities. A quality preschool
-					program with a low student/teacher ratio and an affordable price has countless benefits
+					program with a low student to teacher ratio and an affordable price has countless benefits
 					for not only students, but the community as a whole. High quality early education programs
 					attract residents and prepare students for success in Los Altos schools.
 				</span>
 			</p>
-
+			<br />
 			<p>
 				<span>
-					The program consists of experienced teachers with a passion for early childhood
-					development in an environment that allows the children to learn and thrive. The staff has
-					gone above and beyond to provide a quality experience, even through the trying times of
-					the COVID pandemic. It is disturbing that the city is contemplating laying off highly
-					qualified teachers during a nationwide teacher shortage. The proposed implementation
-					timeline means there is a high risk that no program will be offered next year as it will
-					be extremely challenging to contract with a private company, hire new teachers, and enroll
-					students in time for next school year.
+					THAT, the program consists of experienced teachers with a passion for early childhood
+					development, the school provides an environment which allows the children to learn and
+					thrive. The staff has gone above and beyond to provide a quality experience, even through
+					the trying times of the COVID pandemic. It is disturbing that the city is contemplating
+					laying off highly qualified teachers during a nationwide teacher shortage. The proposed
+					implementation timeline means there is a high risk that no program will be offered next
+					year as it will be extremely challenging to contract with a private company, hire new
+					teachers, and enroll students in time for next school year.
 				</span>
 			</p>
-
+			<br />
 			<p>
 				<span>
-					It is alarming that the city is planning to eliminate this long standing program without
-					providing parents or the community any notice or transparency into the decision making
-					process. Tax dollars should be going to benefit the local community, rather than a private
+					THAT, tax dollars should be going to benefit the local community, rather than a private
 					corporation. Outsourcing to a private company will result in a decrease in program
 					quality, an increase in tuition, and the loss of highly experienced and dedicated
-					teachers. We are urging the city to delay their decision and first attempt working with
-					the community to make the Tiny Tots and Kinder Prep programs successful. The parents of
-					the school are highly engaged in the school and community and are asking to have the
-					chance to work together on potential solutions before a decision to shutter our local
-					school is made without consultation of parents, students, teachers, and residents.
+					teachers.
 				</span>
 			</p>
+
+			<br />
+			<p>
+				<span>
+					OUR REQUEST, is that the city to delay their decision and first attempt working with the
+					parents and community to make the Tiny Tots and Kinder Prep programs successful. A
+					collaborative solutioning process should be fully attempted before a decision is made to
+					shutter and privatize our local school without consultation of parents, students,
+					teachers, and residents.
+				</span>
+			</p>
+
+			<br />
+			<p>
+				<span> THEREFORE, the city should continue the program into the next school year. </span>
+			</p>
+
+			<br />
 			<p><span>Sincerely Yours,<br />(Signatures are attached)</span></p>
 		</div>
 	</section>
 </main>
 
 <style>
+	body {
+		font:
+			14px/24px 'Roboto Slab',
+			serif;
+		color: #2b2b2b;
+		font-style: normal;
+		font-weight: 300;
+		position: relative;
+	}
+
 	h1,
 	h2,
 	h3,
@@ -191,7 +216,7 @@
 
 	.letter-content {
 		max-width: 555px;
-		margin: 32px auto 0;
+		margin: 48px auto 0;
 		font-family: 'Lora', serif;
 		font-style: italic;
 	}
@@ -205,5 +230,6 @@
 
 	.letter-content p span {
 		border-bottom: 1px solid #e6e6e6;
+		color: #2b2b2b;
 	}
 </style>
