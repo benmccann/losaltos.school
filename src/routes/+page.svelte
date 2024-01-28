@@ -20,7 +20,7 @@
 				<div class="text-center">
 					<h2>
 						<span class="heading-highlight">PETITION for saving</span>
-						Los Altos Preschools Schools
+						Los Altos Preschools
 					</h2>
 					<p>
 						<span class="border-light-dotted">Parents and staff deserve a chance</span> to save these
