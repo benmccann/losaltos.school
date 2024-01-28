@@ -1,17 +1,11 @@
 <svelte:head>
-	<title>Save Los Altos Tiny Tots and Kinder Prep School Programs</title>
-	<meta name="description" content="Save Los Altos Tiny Tots and Kinder Prep School Programs" />
+	<title>Save Los Altos Preschools</title>
+	<meta name="description" content="Save the Los Altos Tiny Tots preschool program" />
 
-	<meta
-		property="og:site_name"
-		content="Save Los Altos Tiny Tots and Kinder Prep School Programs"
-	/>
+	<meta property="og:site_name" content="Save Los Altos Preschools" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Save Los Altos Tiny Tots and Kinder Prep School Programs" />
-	<meta
-		property="og:description"
-		content="Save Los Altos Tiny Tots and Kinder Prep School Programs"
-	/>
+	<meta property="og:title" content="Save Los Altos Preschools" />
+	<meta property="og:description" content="Save the Los Altos Tiny Tots preschool program" />
 	<meta property="og:url" content="https://losaltos.school" />
 	<meta
 		property="og:image"
@@ -26,22 +20,37 @@
 				<div class="text-center">
 					<h2>
 						<span class="heading-highlight">PETITION for saving</span>
-						Tiny Tots and Kinder Prep Schools
+						Los Altos Preschools Schools
 					</h2>
 					<p>
 						<span class="border-light-dotted">Parents and staff deserve a chance</span> to save these
 						schools.
 					</p>
-					<a
-						href="https://docs.google.com/forms/d/e/1FAIpQLSfIVze1Mhj8xNBNG2vok9q8mv35_JZ1i1TLR3d-ok0JjxBsRQ/viewform?usp=sf_link"
-						class="btn-sign-petition">Sign Petition</a
-					>
+					<a href="#letter" class="btn-cta">Read Petition</a>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="letter">
+	<section class="background">
+		<h1>BACKGROUND</h1>
+
+		<div class="background-content">
+			The city of Los Altos has been running the <a
+				href="https://www.losaltosca.gov/parksrec/page/tiny-tots">Tiny Tots</a
+			>
+			preschool program for over fifty years. The program consists of
+			<a href="https://www.losaltosca.gov/parksrec/page/playschool-age-3-4"
+				>Playschool for 3-4 year olds</a
+			>
+			and
+			<a href="https://www.losaltosca.gov/parksrec/page/kinder-prep-4s-age-4-5"
+				>Kinder Prep for 4-5 year olds.</a
+			>
+		</div>
+	</section>
+
+	<section id="letter" class="letter">
 		<div class="letter-heading">
 			<h1>LETTER</h1>
 
@@ -56,10 +65,10 @@
 			<p>
 				<span>
 					WE, the undersigned, were surprised to learn that the City of Los Altos is planning to end
-					the Tiny Tots and Kinder Prep Preschool programs and open up an RFP for corporations to
-					bid on using the preschool facilities. It is alarming that the city is planning to
-					eliminate this long-standing program without providing parents or the community notice,
-					transparency into the decision making process, and a chance to address any concerns.
+					the Tiny Tots Preschool program and open up an RFP for corporations to bid on using the
+					preschool facilities. It is alarming that the city is planning to eliminate this
+					long-standing program without providing parents or the community notice, transparency into
+					the decision making process, and a chance to address any concerns.
 				</span>
 			</p>
 			<br />
@@ -120,7 +129,7 @@
 			<div style="text-align:center">
 				<a
 					href="https://docs.google.com/forms/d/e/1FAIpQLSfIVze1Mhj8xNBNG2vok9q8mv35_JZ1i1TLR3d-ok0JjxBsRQ/viewform?usp=sf_link"
-					class="btn-sign-petition"
+					class="btn-cta"
 					style="margin: 0 auto">Sign Petition</a
 				>
 			</div>
@@ -149,6 +158,10 @@
 		color: #272727;
 		line-height: 32px;
 		margin: 0 0 16px 0;
+	}
+
+	h2 a {
+		text-decoration: underline;
 	}
 
 	p {
@@ -199,6 +212,25 @@
 		border-bottom: 1px dotted #ff8137;
 	}
 
+	.background {
+		text-align: center;
+	}
+
+	.background-content {
+		max-width: 555px;
+		margin: 48px auto 0;
+		font-family: 'Lora', serif;
+		font-style: italic;
+	}
+
+	.background-content a {
+		text-decoration: underline;
+	}
+
+	.background-content a:hover {
+		text-decoration: none;
+	}
+
 	.letter {
 		background: #f9fafb;
 		padding-left: 25px;
@@ -208,7 +240,7 @@
 	.letter-heading {
 		text-align: center;
 	}
-	.letter-heading h1 {
+	h1 {
 		color: #ff8137;
 		font-size: 60px;
 		line-height: 36px;
@@ -250,7 +282,7 @@
 		color: #2b2b2b;
 	}
 
-	.btn-sign-petition {
+	.btn-cta {
 		color: #000;
 		font-weight: bold;
 		padding: 14px 18px;
