@@ -110,7 +110,7 @@
 			<br />
 			<p>
 				<span>
-					OUR REQUEST, is that the city delay their decision and first attempt working with the
+					OUR REQUEST is that the city delay their decision and first attempt working with the
 					parents and community to continue the long successful legacy of the Tiny Tots and Kinder
 					Prep programs. A collaborative solutioning process should be fully attempted before a
 					decision is made to shutter and privatize our local school without consultation of
