@@ -28,11 +28,14 @@
 						<span class="heading-highlight">PETITION for saving</span>
 						Tiny Tots and Kinder Prep Schools
 					</h2>
-
 					<p>
 						<span class="border-light-dotted">Parents and staff deserve a chance</span> to save these
 						schools.
 					</p>
+					<a
+						href="https://docs.google.com/forms/d/e/1FAIpQLSfIVze1Mhj8xNBNG2vok9q8mv35_JZ1i1TLR3d-ok0JjxBsRQ/viewform?usp=sf_link"
+						class="btn-sign-petition">Sign Petition</a
+					>
 				</div>
 			</div>
 		</div>
@@ -56,8 +59,7 @@
 					the Tiny Tots and Kinder Prep Preschool programs and open up an RFP for corporations to
 					bid on using the preschool facilities. It is alarming that the city is planning to
 					eliminate this long-standing program without providing parents or the community notice,
-					transparency into the decision making process, and a chance to make changes at the
-					schools.
+					transparency into the decision making process, and a chance to address any concerns.
 				</span>
 			</p>
 			<br />
@@ -88,8 +90,8 @@
 			<br />
 			<p>
 				<span>
-					THAT, tax dollars should be going to benefit the local community, rather than a private
-					corporation. Outsourcing to a private company will result in a decrease in program
+					THAT, the benefits of tax dollars should be going to the local community, rather than a
+					private corporation. Outsourcing to a private company will result in a decrease in program
 					quality, an increase in tuition, and the loss of highly experienced and dedicated
 					teachers.
 				</span>
@@ -99,10 +101,10 @@
 			<p>
 				<span>
 					OUR REQUEST, is that the city to delay their decision and first attempt working with the
-					parents and community to make the Tiny Tots and Kinder Prep programs successful. A
-					collaborative solutioning process should be fully attempted before a decision is made to
-					shutter and privatize our local school without consultation of parents, students,
-					teachers, and residents.
+					parents and community to continue the long successful legacy of the Tiny Tots and Kinder
+					Prep programs. A collaborative solutioning process should be fully attempted before a
+					decision is made to shutter and privatize our local school without consultation of
+					parents, students, teachers, and residents.
 				</span>
 			</p>
 
@@ -113,6 +115,15 @@
 
 			<br />
 			<p><span>Sincerely Yours,<br />(Signatures are attached)</span></p>
+
+			<br />
+			<div style="text-align:center">
+				<a
+					href="https://docs.google.com/forms/d/e/1FAIpQLSfIVze1Mhj8xNBNG2vok9q8mv35_JZ1i1TLR3d-ok0JjxBsRQ/viewform?usp=sf_link"
+					class="btn-sign-petition"
+					style="margin: 0 auto">Sign Petition</a
+				>
+			</div>
 		</div>
 	</section>
 </main>
@@ -237,5 +248,22 @@
 	.letter-content p span {
 		border-bottom: 1px solid #e6e6e6;
 		color: #2b2b2b;
+	}
+
+	.btn-sign-petition {
+		color: #000;
+		font-weight: bold;
+		padding: 14px 18px;
+		background: #ffa16a;
+		display: inline-block;
+		margin-bottom: 0;
+		font-size: 14px;
+		white-space: nowrap;
+		vertical-align: middle;
+		touch-action: manipulation;
+		cursor: pointer;
+		user-select: none;
+		border: 1px solid transparent;
+		border-radius: 4px;
 	}
 </style>
