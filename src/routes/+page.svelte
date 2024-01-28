@@ -33,10 +33,10 @@
 	</section>
 
 	<section class="background">
-		<h1>BACKGROUND</h1>
+		<h1>Preschools</h1>
 
 		<div class="background-content">
-			The city of Los Altos has been running the <a
+			The city of Los Altos has been running its <a
 				href="https://www.losaltosca.gov/parksrec/page/tiny-tots">Tiny Tots</a
 			>
 			preschool program for over fifty years. The program consists of
@@ -65,22 +65,23 @@
 			<p>
 				<span>
 					WE, the undersigned, were surprised to learn that the City of Los Altos is planning to end
-					the Tiny Tots Preschool program and open up an RFP for corporations to bid on using the
-					preschool facilities. It is alarming that the city is planning to eliminate this
-					long-standing program without providing parents or the community notice, transparency into
-					the decision making process, and a chance to address any concerns.
+					its preschool program and open up an RFP for corporations to bid on using the preschool
+					facilities. It is alarming that the city is planning to eliminate this long-standing
+					program without providing parents or the community notice, transparency into the decision
+					making process, and a chance to address any concerns.
 				</span>
 			</p>
 			<br />
 			<p>
 				<span>
-					THAT, the Tiny Tots program has been in existence for 50+ years, many former students are
-					now sending their own children to participate. The program sets children up to become
-					engaged citizens through the unique opportunities they have to interact with other
-					community organizations through regular field trips and activities. A quality preschool
-					program with a low student to teacher ratio and an affordable price has countless benefits
-					for not only students, but the community as a whole. High quality early education programs
-					attract residents and prepare students for success in Los Altos schools.
+					THAT, the Tiny Tots preschool program has been in existence for 50+ years, many former
+					students are now sending their own children to participate. The program sets children up
+					to become engaged citizens through the unique opportunities they have to interact with
+					other community organizations through regular field trips and activities. A quality
+					preschool program with a low student to teacher ratio and an affordable price has
+					countless benefits for not only students, but the community as a whole. High quality early
+					education programs attract residents and prepare students for success in Los Altos
+					schools.
 				</span>
 			</p>
 			<br />
@@ -133,6 +134,10 @@
 					style="margin: 0 auto">Sign Petition</a
 				>
 			</div>
+			<br />
+			After signing, please share a link to
+			<a href="https://losaltos.school">https://losaltos.school</a> on social media such as Facebook,
+			Nextdoor, and Twitter.
 		</div>
 	</section>
 </main>
@@ -160,8 +165,11 @@
 		margin: 0 0 16px 0;
 	}
 
-	h2 a {
+	a {
 		text-decoration: underline;
+	}
+	a:hover {
+		text-decoration: none;
 	}
 
 	p {
@@ -214,6 +222,18 @@
 
 	.background {
 		text-align: center;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
+	h1 {
+		color: #ff8137;
+		line-height: 36px;
+		position: relative;
+		margin-bottom: 48px;
+	}
+	.background h1 {
+		font-size: 60px;
 	}
 
 	.background-content {
@@ -227,10 +247,6 @@
 		text-decoration: underline;
 	}
 
-	.background-content a:hover {
-		text-decoration: none;
-	}
-
 	.letter {
 		background: #f9fafb;
 		padding-left: 25px;
@@ -240,12 +256,8 @@
 	.letter-heading {
 		text-align: center;
 	}
-	h1 {
-		color: #ff8137;
+	.letter-heading h1 {
 		font-size: 60px;
-		line-height: 36px;
-		position: relative;
-		margin-bottom: 48px;
 	}
 	.letter-heading h1:after {
 		position: absolute;
