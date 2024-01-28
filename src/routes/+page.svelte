@@ -135,9 +135,32 @@
 				>
 			</div>
 			<br />
-			After signing, please share a link to
-			<a href="https://losaltos.school">https://losaltos.school</a> on social media such as Facebook,
-			Nextdoor, and Twitter.
+			<p>
+				After signing, please share a link to
+				<a href="https://losaltos.school">https://losaltos.school</a> on social media such as Facebook,
+				Nextdoor, and Twitter.
+			</p>
+			<br />
+			<p>
+				Print and post a <a href="flyer.pdf">flyer</a>.
+			</p>
+			<br />
+			Email the city manager and council by copying this block into the To field:<br />
+			<code>
+				Gabe Engeland &lt;gengeland@losaltosca.gov&gt;,<br />
+				Jonathan Weinberg &lt;jweinberg@losaltosca.gov&gt;,<br />
+				Pete Dailey &lt;pdailey@losaltosca.gov&gt;,<br />
+				Neysa Fligor &lt;nfligor@losaltosca.gov&gt;,<br />
+				Lynette Lee Eng &lt;lleeeng@losaltosca.gov&gt;,<br />
+				Sally Meadows &lt;smeadows@losaltosca.gov&gt;
+			</code><br />
+			<br />
+			Then give them a call about this election year issue.<br />
+			<code>
+				City Manager: (650) 947-2740<br />
+				City Council: (650) 947-2720
+			</code>
+			<br />
 		</div>
 	</section>
 </main>
@@ -183,6 +206,10 @@
 
 	section {
 		padding: 6rem 0;
+	}
+
+	code {
+		font-size: 12px;
 	}
 
 	#about {
