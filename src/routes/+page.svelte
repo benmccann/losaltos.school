@@ -103,7 +103,7 @@
 					THAT, outsourcing to a private company will result in a decrease in program quality, an
 					increase in tuition, and the loss of highly experienced and dedicated teachers. The city
 					can alter the economics of the program without introducing a middleman that will extract
-					funds for its own profit. The introduction of profit-driven middlemen will only serve to
+					funds for its own profit. The addition of profit-driven middlemen will only serve to
 					worsen the experience for students, parents, and teachers at the school.
 				</span>
 			</p>
