@@ -160,8 +160,9 @@
 			<code>
 				City Manager: (650) 947-2740<br />
 				City Council: (650) 947-2720
-			</code>
+			</code><br />
 			<br />
+			Attend and speak at a City Council meeting. The next one is February 13, 2024 at 7:00pm.
 		</div>
 	</section>
 </main>
