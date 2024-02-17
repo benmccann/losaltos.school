@@ -36,17 +36,29 @@
 		<h1>Preschools</h1>
 
 		<div class="background-content">
-			The city of Los Altos has been running its <a
-				href="https://www.losaltosca.gov/parksrec/page/tiny-tots">Tiny Tots</a
-			>
-			preschool program for over fifty years. The program consists of
-			<a href="https://www.losaltosca.gov/parksrec/page/playschool-age-3-4"
-				>Playschool for 3-4 year olds</a
-			>
-			and
-			<a href="https://www.losaltosca.gov/parksrec/page/kinder-prep-4s-age-4-5"
-				>Kinder Prep for 4-5 year olds.</a
-			>
+			<p style="font-style: italic;">
+				The city of Los Altos has been running its <a
+					href="https://www.losaltosca.gov/parksrec/page/tiny-tots">Tiny Tots</a
+				>
+				preschool program for over fifty years. The program consists of
+				<a href="https://www.losaltosca.gov/parksrec/page/playschool-age-3-4"
+					>Playschool for 3-4 year olds</a
+				>
+				and
+				<a href="https://www.losaltosca.gov/parksrec/page/kinder-prep-4s-age-4-5"
+					>Kinder Prep for 4-5 year olds.</a
+				>
+			</p>
+			<p>
+				The Tiny Tots program currently costs residents about $4,000/yr for 5 day/week attendance
+				compared to roughly $15,000/yr for comparable programs run by Children's House and
+				Children's Corner, which have expressed interest in taking over the program. <a
+					href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
+					>The program's financials</a
+				> show a 55% increase in tuition would be necessary for the program to break even in 2023. Increasing
+				tuition for the first time in over a decade would allow the program to remain available at less
+				than half the cost of comparable programs and would be in the best interest of the community.
+			</p>
 		</div>
 	</section>
 
@@ -162,7 +174,7 @@
 				City Council: (650) 947-2720
 			</code><br />
 			<br />
-			Attend and speak at a City Council meeting. The next one is February 13, 2024 at 7:00pm.
+			Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.
 		</div>
 	</section>
 </main>
@@ -269,7 +281,6 @@
 		max-width: 555px;
 		margin: 48px auto 0;
 		font-family: 'Lora', serif;
-		font-style: italic;
 	}
 
 	.background-content a {
