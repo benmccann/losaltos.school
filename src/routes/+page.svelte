@@ -55,7 +55,7 @@
 				Children's Corner, which have expressed interest in taking over the program. <a
 					href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
 					>The program's financials</a
-				> show a 55% increase in tuition would be necessary for the program to break even in 2023. Increasing
+				> show a 55% increase in revenue would be necessary for the program to break even in 2023. Increasing
 				tuition for the first time in over a decade would allow the program to remain available at less
 				than half the cost of comparable programs and would be in the best interest of the community.
 			</p>
@@ -175,6 +175,31 @@
 			</code><br />
 			<br />
 			Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.
+		</div>
+	</section>
+	<section class="background">
+		<h1>In the Press</h1>
+		<div class="background-content">
+			<ul>
+				<li>
+					<a
+						href="https://www.losaltosonline.com/opinion/letters-to-the-editor-thanks-to-first-responders/article_f556e86c-cb61-11ee-b7a0-b7e8bc9fd801.html"
+						>Tiny Tots decision warrants input</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.losaltosonline.com/news/beloved-tiny-tots-preschool-program-set-to-be-privatized/article_c644cd14-bfc7-11ee-ad94-2fa67e24ec35.html"
+						>Beloved Tiny Tots preschool program set to be privatized</a
+					>
+					- Note that the city manager shared highly innaccurate and inflated loss numbers in this article
+					when
+					<a
+						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
+						>the program's actual financials</a
+					> show the losses are not actually six figures.
+				</li>
+			</ul>
 		</div>
 	</section>
 </main>
