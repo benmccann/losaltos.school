@@ -174,7 +174,7 @@
 				City Council: (650) 947-2720
 			</code><br />
 			<br />
-			<!--Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.-->
+			<!--Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.-->fffffffffffffffffffffffffffff
 		</div>
 	</section>
 	<section class="background">
@@ -192,12 +192,6 @@
 						href="https://www.losaltosonline.com/news/beloved-tiny-tots-preschool-program-set-to-be-privatized/article_c644cd14-bfc7-11ee-ad94-2fa67e24ec35.html"
 						>Beloved Tiny Tots preschool program set to be privatized</a
 					>
-					- Note that the city manager shared highly innaccurate and inflated loss numbers in this article
-					when
-					<a
-						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
-						>the program's actual financials</a
-					> show the losses are not actually six figures.
 				</li>
 			</ul>
 		</div>
