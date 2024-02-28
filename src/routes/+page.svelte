@@ -174,7 +174,7 @@
 				City Council: (650) 947-2720
 			</code><br />
 			<br />
-			Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.
+			<!--Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.-->
 		</div>
 	</section>
 	<section class="background">
