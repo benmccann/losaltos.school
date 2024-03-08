@@ -183,15 +183,21 @@
 			<ul>
 				<li>
 					<a
+						href="https://lahstalon.org/tiny-tots-preschool-may-be-privatized-parents-protest/"
+						>Tiny Tots Preschool may be privatized; parents protest</a
+					> - Mar 2024
+				</li>
+				<li>
+					<a
 						href="https://www.losaltosonline.com/opinion/letters-to-the-editor-thanks-to-first-responders/article_f556e86c-cb61-11ee-b7a0-b7e8bc9fd801.html"
 						>Tiny Tots decision warrants input</a
-					>
+					> - Feb 2024
 				</li>
 				<li>
 					<a
 						href="https://www.losaltosonline.com/news/beloved-tiny-tots-preschool-program-set-to-be-privatized/article_c644cd14-bfc7-11ee-ad94-2fa67e24ec35.html"
 						>Beloved Tiny Tots preschool program set to be privatized</a
-					>
+					> - Jan 2024
 				</li>
 			</ul>
 		</div>
