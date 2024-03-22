@@ -89,6 +89,10 @@
 						>shown in the city's budget</a
 					> for 2023, but will not provide calculations showing how his numbers were arrived at.
 				</li>
+				<li>
+					The program helps the city attract and retain residents and employees with multiple city
+					employees currently have a child enrolled in the program.
+				</li>
 			</ul>
 		</div>
 	</section>
