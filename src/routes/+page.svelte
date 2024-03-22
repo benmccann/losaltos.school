@@ -59,7 +59,9 @@
 		<div class="background-content">
 			<ul class="list-disc">
 				<li>
-					No corrective action was attempted and tuition has not been raised in over a decade.
+					No corrective action was attempted and tuition has not been raised in over a decade. The
+					city met with parents only after the Request for Proposals was released and did not
+					inform or consult with the Parks & Rec or Youth commissions.
 				</li>
 				<li>
 					The city's current programs operates with different licensing requirements than private
@@ -86,10 +88,6 @@
 						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
 						>shown in the city's budget</a
 					>, but will not provide calculations showing how his numbers were arrived at.
-				</li>
-				<li>
-					The city met with parents only after the Request for Proposals was in process. The city
-					did not inform or consult with the Parks & Rec or Youth commissions.
 				</li>
 			</ul>
 		</div>
