@@ -60,8 +60,8 @@
 			<ul class="list-disc">
 				<li>
 					No corrective action was attempted and tuition has not been raised in over a decade. The
-					city met with parents only after the Request for Proposals was released and did not
-					inform or consult with the Parks & Rec or Youth commissions.
+					city met with parents only after the Request for Proposals was released and did not inform
+					or consult with the Parks & Rec or Youth commissions.
 				</li>
 				<li>
 					The city's current programs operates with different licensing requirements than private
@@ -84,10 +84,10 @@
 					at less than half the cost of comparable programs.
 				</li>
 				<li>
-					The City Manager repeatedly cites losses that far exceed the $83,000 loss in 2023 <a
+					The City Manager repeatedly cites losses that far exceed the $83,000 loss <a
 						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
 						>shown in the city's budget</a
-					>, but will not provide calculations showing how his numbers were arrived at.
+					> for 2023, but will not provide calculations showing how his numbers were arrived at.
 				</li>
 			</ul>
 		</div>
