@@ -45,7 +45,7 @@
 				>
 				and
 				<a href="https://www.losaltosca.gov/parksrec/page/kinder-prep-4s-age-4-5"
-					>Kinder Prep for 4-5 year olds.</a
+					>Kinder Prep for 4-5 year olds</a
 				>, and
 				<a href="https://www.losaltosca.gov/parksrec/page/lunch-and-play-lap"
 					>the Lunch and Play afterschool care program</a
