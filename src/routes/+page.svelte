@@ -23,8 +23,7 @@
 						Los Altos Preschools
 					</h2>
 					<p>
-						<span class="border-light-dotted">Parents and staff deserve a chance</span> to save these
-						schools.
+						<span class="border-light-dotted">Parents and staff deserve a chance</span>.
 					</p>
 					<a href="#letter" class="btn-cta">Read Petition</a>
 				</div>
@@ -32,37 +31,96 @@
 		</div>
 	</section>
 
-	<section class="background">
-		<h1>Preschools</h1>
+	<section class="text centered">
+		<h1>Program</h1>
 
 		<div class="background-content">
 			<p style="font-style: italic;">
 				The city of Los Altos has been running its <a
 					href="https://www.losaltosca.gov/parksrec/page/tiny-tots">Tiny Tots</a
 				>
-				preschool program for over fifty years. The program consists of
+				preschool program for over fifty years. It consists of
 				<a href="https://www.losaltosca.gov/parksrec/page/playschool-age-3-4"
 					>Playschool for 3-4 year olds</a
 				>
 				and
 				<a href="https://www.losaltosca.gov/parksrec/page/kinder-prep-4s-age-4-5"
 					>Kinder Prep for 4-5 year olds.</a
-				>
-			</p>
-			<p>
-				The Tiny Tots program currently costs residents about $4,000/yr for 5 day/week attendance
-				compared to roughly $15,000/yr for comparable programs run by Children's House and
-				Children's Corner, which have expressed interest in taking over the program. <a
-					href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
-					>The program's financials</a
-				> show a 55% increase in revenue would be necessary for the program to break even in 2023. Increasing
-				tuition for the first time in over a decade would allow the program to remain available at less
-				than half the cost of comparable programs and would be in the best interest of the community.
+				>, and
+				<a href="https://www.losaltosca.gov/parksrec/page/lunch-and-play-lap"
+					>the Lunch and Play afterschool care program</a
+				>.
 			</p>
 		</div>
 	</section>
 
-	<section id="letter" class="letter">
+	<section class="text gray-bg">
+		<h1>Info</h1>
+		<div class="background-content">
+			<ul class="list-disc">
+				<li>
+					No corrective action was attempted and tuition has not been raised in over a decade.
+				</li>
+				<li>
+					The city's current programs operates with different licensing requirements than private
+					preschools meaning that the teachers could not be employed at the programs currently run
+					by private providers. As reported in The Talon, teachers were informed they'd be losing
+					their jobs at their Christmas party.
+				</li>
+				<li>
+					The Tiny Tots program currently costs residents about $4,000/yr for 5 day/week attendance
+					inline with what Mountain View, Sunnyvale, and Cupertino charge. Children's House and
+					Children's Corner, which have expressed interest in taking over the program, cost roughly
+					$15,000/yr.
+				</li>
+				<li>
+					If the city decides that city funds should not be spent on its preschool program, <a
+						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
+						>the program's financials</a
+					> show a 55% increase in revenue would be necessary for the program to break even in 2023.
+					Increasing tuition for the first time in over a decade would allow the program to remain available
+					at less than half the cost of comparable programs.
+				</li>
+				<li>
+					The City Manager repeatedly cites losses that far exceed the $83,000 loss in 2023 <a
+						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
+						>shown in the city's budget</a
+					>, but will not provide calculations showing how his numbers were arrived at.
+				</li>
+				<li>
+					The city met with parents only after the Request for Proposals was in process. The city
+					did not inform or consult with the Parks & Rec or Youth commissions.
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<section class="text centered">
+		<h1>Press</h1>
+		<div class="background-content">
+			<ul>
+				<li>
+					<a href="https://lahstalon.org/tiny-tots-preschool-may-be-privatized-parents-protest/"
+						>Tiny Tots Preschool may be privatized; parents protest</a
+					> - Mar 2024
+				</li>
+				<li>
+					<a
+						href="https://www.losaltosonline.com/opinion/letters-to-the-editor-thanks-to-first-responders/article_f556e86c-cb61-11ee-b7a0-b7e8bc9fd801.html"
+						>Tiny Tots decision warrants input</a
+					> - Feb 2024
+				</li>
+				<li>
+					<a
+						href="https://www.losaltosonline.com/news/beloved-tiny-tots-preschool-program-set-to-be-privatized/article_c644cd14-bfc7-11ee-ad94-2fa67e24ec35.html"
+						>Beloved Tiny Tots preschool program set to be privatized</a
+					> - Jan 2024
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<section id="letter" class="letter gray-bg">
 		<div class="letter-heading">
 			<h1>LETTER</h1>
 
@@ -74,70 +132,8 @@
 		</div>
 
 		<div class="letter-content">
-			<p>
-				<span>
-					WE, the undersigned, were surprised to learn that the City of Los Altos is planning to end
-					its preschool program and open up an RFP for corporations to bid on using the preschool
-					facilities. It is alarming that the city is planning to eliminate this long-standing
-					program without providing parents or the community notice, transparency into the decision
-					making process, and a chance to address any concerns.
-				</span>
-			</p>
-			<br />
-			<p>
-				<span>
-					THAT, the Tiny Tots preschool program has been in existence for 50+ years, many former
-					students are now sending their own children to participate. The program sets children up
-					to become engaged citizens through the unique opportunities they have to interact with
-					other community organizations through regular field trips and activities. A quality
-					preschool program with a low student to teacher ratio and an affordable price has
-					countless benefits for not only students, but the community as a whole. High quality early
-					education programs attract residents and prepare students for success in Los Altos
-					schools.
-				</span>
-			</p>
-			<br />
-			<p>
-				<span>
-					THAT, the program consists of experienced teachers with a passion for early childhood
-					development, the school provides an environment which allows the children to learn and
-					thrive. The staff has gone above and beyond to provide a quality experience, even through
-					the trying times of the COVID pandemic. It is disturbing that the city is contemplating
-					laying off highly qualified teachers during a nationwide teacher shortage. The proposed
-					implementation timeline means there is a high risk that no program will be offered next
-					year as it will be extremely challenging to contract with a private company, hire new
-					teachers, and enroll students in time for next school year.
-				</span>
-			</p>
-			<br />
-			<p>
-				<span>
-					THAT, outsourcing to a private company will result in a decrease in program quality, an
-					increase in tuition, and the loss of highly experienced and dedicated teachers. The city
-					can alter the economics of the program without introducing a middleman that will extract
-					funds for its own profit. The addition of profit-driven middlemen will only serve to
-					worsen the experience for students, parents, and teachers at the school.
-				</span>
-			</p>
-
-			<br />
-			<p>
-				<span>
-					OUR REQUEST is that the city delay their decision and first attempt working with the
-					parents and community to continue the long successful legacy of the Tiny Tots and Kinder
-					Prep programs. A collaborative solutioning process should be fully attempted before a
-					decision is made to shutter and privatize our local school without consultation of
-					parents, students, teachers, and residents.
-				</span>
-			</p>
-
-			<br />
-			<p>
-				<span> THEREFORE, the city should continue the program into the next school year. </span>
-			</p>
-
-			<br />
-			<p><span>Sincerely Yours,<br />(Signatures are attached)</span></p>
+			Read <a href="TinyTotsPetition.pdf">the petition</a> and join over a hundred local residents
+			who have already signed it.
 
 			<br />
 			<div style="text-align:center">
@@ -175,31 +171,6 @@
 			</code><br />
 			<br />
 			<!--Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.-->
-		</div>
-	</section>
-	<section class="background">
-		<h1>In the Press</h1>
-		<div class="background-content">
-			<ul>
-				<li>
-					<a
-						href="https://lahstalon.org/tiny-tots-preschool-may-be-privatized-parents-protest/"
-						>Tiny Tots Preschool may be privatized; parents protest</a
-					> - Mar 2024
-				</li>
-				<li>
-					<a
-						href="https://www.losaltosonline.com/opinion/letters-to-the-editor-thanks-to-first-responders/article_f556e86c-cb61-11ee-b7a0-b7e8bc9fd801.html"
-						>Tiny Tots decision warrants input</a
-					> - Feb 2024
-				</li>
-				<li>
-					<a
-						href="https://www.losaltosonline.com/news/beloved-tiny-tots-preschool-program-set-to-be-privatized/article_c644cd14-bfc7-11ee-ad94-2fa67e24ec35.html"
-						>Beloved Tiny Tots preschool program set to be privatized</a
-					> - Jan 2024
-				</li>
-			</ul>
 		</div>
 	</section>
 </main>
@@ -286,8 +257,11 @@
 		border-bottom: 1px dotted #ff8137;
 	}
 
-	.background {
+	.centered {
 		text-align: center;
+	}
+
+	.text {
 		padding-left: 25px;
 		padding-right: 25px;
 	}
@@ -298,7 +272,8 @@
 		position: relative;
 		margin-bottom: 48px;
 	}
-	.background h1 {
+	.text h1 {
+		text-align: center;
 		font-size: 60px;
 	}
 
@@ -312,8 +287,11 @@
 		text-decoration: underline;
 	}
 
-	.letter {
+	.gray-bg {
 		background: #f9fafb;
+	}
+
+	.letter {
 		padding-left: 25px;
 		padding-right: 25px;
 	}
