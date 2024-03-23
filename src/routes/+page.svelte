@@ -64,7 +64,7 @@
 					or consult with the Parks & Rec or Youth commissions.
 				</li>
 				<li>
-					The city's current programs operates with different licensing requirements than private
+					The city's current programs operate with different licensing requirements than private
 					preschools meaning that the teachers could not be employed at the programs currently run
 					by private providers. As reported in The Talon, teachers were informed they'd be losing
 					their jobs at their Christmas party.
@@ -87,7 +87,8 @@
 					The City Manager repeatedly cites losses that far exceed the $83,000 loss <a
 						href="https://drive.google.com/drive/folders/1L5aSYyT9czOeibSTfbyEBWTpGqiz6us0?usp=drive_link"
 						>shown in the city's budget</a
-					> for 2023, but will not provide calculations showing how his numbers were arrived at.
+					> for 2023, but has not provided any calculations showing how his numbers were arrived at despite
+					repeated requests.
 				</li>
 				<li>
 					The program helps the city attract and retain residents and employees with multiple city
@@ -166,13 +167,13 @@
 				Sally Meadows &lt;smeadows@losaltosca.gov&gt;
 			</code><br />
 			<br />
-			Then give them a call about this election year issue.<br />
+			Or give them a call about this election year issue.<br />
 			<code>
 				City Manager: (650) 947-2740<br />
 				City Council: (650) 947-2720
 			</code><br />
 			<br />
-			<!--Attend and speak at a City Council meeting. The next one is February 27, 2024 at 7:00pm.-->
+			Attend and speak at the City Council meeting on April 09, 2024 at 7:00pm.
 		</div>
 	</section>
 </main>
