@@ -92,7 +92,7 @@
 				</li>
 				<li>
 					The program helps the city attract and retain residents and employees with multiple city
-					employees currently have a child enrolled in the program.
+					employees currently having a child enrolled in the program.
 				</li>
 			</ul>
 		</div>
